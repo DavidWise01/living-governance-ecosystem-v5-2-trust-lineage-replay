@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 241
 slug  : living-governance-ecosystem-v5-2-trust-lineage-replay
-seal  : 1658b5d91ed32bdd0ce6b20c75d3a604d5183cc7c258138e6d37211db25b9464
-prev  : 3ab50d4ca292a737c94a2ab573b4939fc980df882efcf8813d6937a0416d52cb
-link  : 8535de0772448bc758f0185a5d6e3dec98d02ceb5b262dd135c2dda9f6f5016a
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : df5e1dadfe083db9028753674645da118e304563f47f38e755bf65c5982337a4
+prev  : c15ebb339d0d73becaa9c44c899f7219e6f76db64fe5a658dceee35a9770a1cd
+link  : 4c77e832f32a33898f9f9ea1442f8554968cfbfbbf06780b7cb310856ed8ed92
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
